@@ -8,5 +8,5 @@ pip install dbt-snowflake
 
 ## Initialize
 ![image](init.png)
-The account comes from the account activation latter
+The account comes from the account activation letter <br>
 ![image](account.png)
